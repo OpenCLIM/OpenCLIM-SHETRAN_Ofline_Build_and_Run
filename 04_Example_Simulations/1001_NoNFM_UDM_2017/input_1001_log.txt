@@ -1,0 +1,63 @@
+ XML filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_LibraryFile_UDM.xml
+ 
+ DEM filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_DEM.asc
+ Minimum DEM filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_MinDEM.asc
+ Catchment Mask filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_Mask.asc
+ Land use distribution filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_landcover_UDM_cal.asc
+ Soil category distribution filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_soil_UDM_cal.asc
+ NFM_storage distribution filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_NFM_storage.asc
+ NFM_storage distribution filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_NFM_woodland.asc
+ Lakemap = 
+ 1001_Lake.asc                                                                  
+                                                                                
+                                           
+ Precipitation Distribution Filename = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_Cells.asc
+ Potential Evaporation Distribution Filname = 
+ I:/SHETRAN_GB_2021/10_Deliverables/05_SHETRAN_Simulation_Inputs//04_Example_Sim
+ ulations/1001_NoNFM_UDM_2017/1001_Cells.asc
+ Precpitation data = UDM_Precip.csv
+ Potential Evaporation data = UDM_PET.csv
+ Number of river chanel sinks =            8
+ Number of river chanel sinks =            9
+ Number of river chanel sinks =           11
+ Number of river chanel sinks =           11
+ Number of river chanel sinks =           10
+ Number of river chanel sinks =            9
+ Number of river chanel sinks =            8
+ Number of river chanel sinks =            7
+ Number of river chanel sinks =            4
+ Number of river chanel sinks =            2
+ Number of river chanel sinks =            1
+ Number of river chanel sinks =            0
+ 
+  Number of land element sinks =            6
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            2
+  Number of land element sinks =            1
+  Number of land element sinks =            0
